@@ -1,0 +1,28 @@
+body{
+    background-image: url("alfa-opacity.png");
+    background-size: contain;
+    font-size:100%;
+    font-family: 'Roboto', sans-serif;
+}
+.pergunta{
+    font-size: 1.1em;
+    background-color: #1F2739;
+    color:#fff;
+}
+.pergunta th{
+    padding: 10px 15px;
+    text-transform: uppercase;
+}
+.destaque{
+    background-color:#254256!important;
+    font-size: 0.9em;
+    text-transform: capitalize;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 0px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.destaque th, .destaque td{
+    padding: 6px 0px;
+}
